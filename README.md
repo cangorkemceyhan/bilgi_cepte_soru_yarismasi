@@ -37,3 +37,7 @@ Bu uygulama, aşağıdaki yetkinliklerimi göstermek amacıyla geliştirilmişti
 - Kullanıcıdan veri alma ve işleme
 - Oyun mantığı ve puanlama algoritması
 - Temiz ve sürdürülebilir kod yazımı
+
+- 📌 Not
+
+Bu proje eğitim ve öğrenme amaçlıdır.
